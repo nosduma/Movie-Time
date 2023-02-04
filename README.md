@@ -1,2 +1,2 @@
 # Movie-Time
-Movie screaming 
+A movie streaming App
